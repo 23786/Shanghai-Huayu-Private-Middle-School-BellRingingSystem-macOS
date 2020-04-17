@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		180480B02449555500CD0A4D /* 上课铃声.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 180480AF2449555500CD0A4D /* 上课铃声.mp3 */; };
 		181DAFCE240E701B00727448 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181DAFCD240E701B00727448 /* AppDelegate.swift */; };
 		181DAFD0240E701B00727448 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181DAFCF240E701B00727448 /* ViewController.swift */; };
 		181DAFD2240E701C00727448 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 181DAFD1240E701C00727448 /* Assets.xcassets */; };
@@ -15,10 +14,10 @@
 		181DAFDE240E740800727448 /* WindowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181DAFDD240E740800727448 /* WindowController.swift */; };
 		1823AF43241236210060CE3C /* 最新眼保健操.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1823AF42241236210060CE3C /* 最新眼保健操.mp3 */; };
 		1823AF47241236740060CE3C /* 下课铃声.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1823AF46241236740060CE3C /* 下课铃声.mp3 */; };
+		1868EBD32449571B005467B2 /* 上课铃声.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1868EBD22449571B005467B2 /* 上课铃声.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		180480AF2449555500CD0A4D /* 上课铃声.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "上课铃声.mp3"; path = "../../../Desktop/Others/上课音乐/上课铃声.mp3"; sourceTree = "<group>"; };
 		181DAFCA240E701B00727448 /* Tool.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tool.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		181DAFCD240E701B00727448 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		181DAFCF240E701B00727448 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -29,6 +28,7 @@
 		181DAFDD240E740800727448 /* WindowController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WindowController.swift; sourceTree = "<group>"; };
 		1823AF42241236210060CE3C /* 最新眼保健操.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "最新眼保健操.mp3"; sourceTree = "<group>"; };
 		1823AF46241236740060CE3C /* 下课铃声.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "下课铃声.mp3"; sourceTree = "<group>"; };
+		1868EBD22449571B005467B2 /* 上课铃声.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "上课铃声.mp3"; sourceTree = "<group>"; };
 		18994EBD240F391100A534BE /* Read Me.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Read Me.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -69,7 +69,7 @@
 				181DAFD1240E701C00727448 /* Assets.xcassets */,
 				181DAFD3240E701C00727448 /* Main.storyboard */,
 				181DAFD6240E701C00727448 /* Info.plist */,
-				180480AF2449555500CD0A4D /* 上课铃声.mp3 */,
+				1868EBD22449571B005467B2 /* 上课铃声.mp3 */,
 				1823AF46241236740060CE3C /* 下课铃声.mp3 */,
 				1823AF42241236210060CE3C /* 最新眼保健操.mp3 */,
 				181DAFD7240E701C00727448 /* Tool.entitlements */,
@@ -136,10 +136,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				181DAFD2240E701C00727448 /* Assets.xcassets in Resources */,
-				180480B02449555500CD0A4D /* 上课铃声.mp3 in Resources */,
 				1823AF47241236740060CE3C /* 下课铃声.mp3 in Resources */,
 				181DAFD5240E701C00727448 /* Main.storyboard in Resources */,
 				1823AF43241236210060CE3C /* 最新眼保健操.mp3 in Resources */,
+				1868EBD32449571B005467B2 /* 上课铃声.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
